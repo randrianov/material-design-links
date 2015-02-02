@@ -7,4 +7,5 @@
 * [polymer paper elements](https://www.polymer-project.org/components/paper-elements/demo.html) - Paper Elements from polymer framework
 * [material ui](http://callemall.github.io/material-ui/#/) - CSS Framework and a Set of React Components that Implement Google's Material Design
 * [material-design-icons](https://github.com/google/material-design-icons)
+* [materialup](http://www.materialup.com/) - the best of Material Design websites, apps and design prototypes
 

@@ -9,4 +9,5 @@
 * [material-design-icons](https://github.com/google/material-design-icons)
 * [materialup](http://www.materialup.com/) - the best of Material Design websites, apps and design prototypes
 * [2014 Google I/O app](https://medium.com/google-design/material-design-in-the-2014-google-i-o-app-e3b22caffae6)
+* [materialpalette](http://www.materialpalette.com)
 
